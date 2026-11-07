@@ -1,0 +1,19 @@
+SEMANA 14 - PROGRAMACION III
+
+Contenido:
+- ejemplos/: codigos de la seccion de ejemplos y caso integrador.
+- ejercicios/: codigos de los ejercicios 2, 6 y 7.
+
+IMPORTANTE:
+Los archivos Espera.java, Nunca.java, Orden.java y Ej7Mal.java
+NO COMPILAN intencionalmente. La guia los utiliza para mostrar errores
+del compilador. No intentes ejecutar esos cuatro archivos como programas
+funcionales. Ejecuta sus versiones corregidas cuando corresponda:
+- Espera.java -> Espera2.java
+- Nunca.java -> Nunca2.java
+- Orden.java -> Orden2.java
+- Ej7Mal.java -> Ej7.java
+
+Cada archivo contiene una clase publica con el mismo nombre del archivo.
+Puedes abrir la carpeta Semana14_ProgramacionIII como proyecto en IntelliJ
+o crear los archivos en sus carpetas correspondientes.
